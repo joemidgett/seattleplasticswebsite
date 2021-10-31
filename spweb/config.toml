@@ -57,6 +57,7 @@ description = "Seattle Plastics"
         address1 = "309 S. Cloverdale St. #E7"
         address2 = "Seattle, WA 98108"
         phone = "1-800-441-0679"
+	phone2 = "206-233-0869"
         email = "info@seattleplastics.com"
 
     [params.footer]
