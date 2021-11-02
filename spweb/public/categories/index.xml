@@ -3,8 +3,8 @@
   <channel>
     <title>Categories on Seattle Plastics</title>
     <link>http://seattleplastics.com/categories/</link>
-    <description>Seattle Plastics</description>
+    <description>Recent content in Categories on Seattle Plastics</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en</language><atom:link href="http://seattleplastics.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
