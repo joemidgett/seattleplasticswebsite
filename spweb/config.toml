@@ -1,67 +1,50 @@
-# Page settings
-
-baseURL = "http://seattleplastics.com"
-languageCode = "en"
+baseURL = "http://www.seattleplastics.com"
+languageCode = "en-us"
 title = "Seattle Plastics"
-theme = "hugo-business-frontpage-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+themesDir = "themes"
+theme = "hugo-hero-theme"
 
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
 [params]
-    author = "Joe Midgett"
-description = "Seattle Plastics"
+  google_analytics_id=""
 
-    [params.navbar]
-        name = "Seattle Plastics"
-        url = "http://seattleplastics.com"
+  [params.homepage_meta_tags]
+    meta_description = "We have perfected custom manufacturing at stock prices"
+    meta_og_title = "Seattle Plastics"
+    meta_og_type = "website"
+    meta_og_url = "http://www.seattleplastics.com"
+    meta_og_description = "Seattle Plastics - We have perfected custom manufacturing"
 
-	[[params.navbar.nav]]
-        current = true
-        [[params.navbar.nav]]
-        name = "Gift Card Displays"
-        url = "#"
-        [[params.navbar.nav]]
-        name = "Chalkboard Signs"
-        url = "#"
-        [[params.navbar.nav]]
-        name = "Custom Fabrication"
-        url = "#"
-	[[params.navbar.nav]]
-	name = "Contact"
-	url = "#"
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
 
-    [params.header]
-        name = "Seattle Plastics"
-        tagline = "We have perfected custom manufacturing at stock prices."
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
 
-    [params.summary]
-        url = "#"
-
-        [params.summary.description]
-
-        [[params.summary.description.items]]
-        description = "We offer a full line of attractive and affordable gift card displays designed to promote any retailer's gift card program."
-        [[params.summary.description.items]]
-        description = "If you are challenged with increasing sales and profits, or are in need of more display space without expanding your footprint, then we invite you to consider our wide selection of designs and styles."
-
-        [[params.summary.description.items]]
-	description = "If you do not see the exact item you need, please contact us with your specific requirements. More than half of our production is dedicated to custom designs, which we can usually produce for only a little more than our comparable stock items."
-
-	[[params.summary.description.items]]
-	description = "At the same time, talk to us about imprinting your logo or help with packaging for direct shipment to your store or fulfillment house."
-
-	[[params.summary.description.items]]
-	description = "We also produce sign holders, literature displays and point of purchase displays for large and small retailers all over the world."
-
-        [params.summary.contact]
-        name = "Seattle Plastics"
-        address1 = "309 S. Cloverdale St. #E7"
-        address2 = "Seattle, WA 98108"
-        phone = "1-800-441-0679"
-	phone2 = "206-233-0869"
-        email = "info@seattleplastics.com"
-
-    [params.footer]
-        copyright = "Seattle Plastics"
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
 
 
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
 
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

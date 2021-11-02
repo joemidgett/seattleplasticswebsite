@@ -1,0 +1,28 @@
+email: 'info@seattleplastics.com'
+phone: '1-800-441-0679'
+businessName: 'Hugo Serif'
+address: |
+  309 S. Cloverdale St., #E7
+  Seattle, WA 98108
+hours:
+  - day: Monday
+    open: 8:00am
+    close: 4:30pm
+  - day: Tuesday
+    open: 8:00am
+    close: 4:30pm
+  - day: Wednesday
+    open: 8:00am
+    close: 4:30pm
+  - day: Thursday
+    open: 8:00am
+    close: 4:30pm
+  - day: Friday
+    open: 8:00am
+    close: 4:30pm
+  - day: Saturday
+    open: Closed
+    close:
+  - day: Sunday
+    open: Closed
+    close:
