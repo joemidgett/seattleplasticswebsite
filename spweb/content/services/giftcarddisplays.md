@@ -4,7 +4,7 @@ date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
 heroHeading: 'Gift Card Displays'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroSubHeading: 'Lorem ipsum armigerae crimen habet priamum nec.'
 heroBackground: 'services/service2.jpg'
 ---
 

@@ -17,33 +17,22 @@ theme = "hugo-hero-theme"
     meta_og_title = "Seattle Plastics"
     meta_og_type = "website"
     meta_og_url = "http://www.seattleplastics.com"
-    meta_og_description = "Seattle Plastics - We have perfected custom manufacturing"
+    meta_og_description = "Seattle Plastics"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 
 [[menu.main]]
 	name = "Services"
 	url = "/services/"
-    weight = 1
-
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
+    weight = 2 
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 3 
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

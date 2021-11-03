@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 heroHeading: 'Fulfillment Services'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroSubHeading: 'Lorem ipsum lorem markdownum, dictis umbrosum dextrum.'
 heroBackground: 'services/service2.jpg'
 ---
 

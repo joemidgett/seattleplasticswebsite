@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 heroHeading: 'Custom Fabrication'
-heroSubHeading: 'Saving for retirement requires careful planning.'
+heroSubHeading: 'Lorem ipsum lorem markdownum aequalis strigis.'
 heroBackground: 'services/service1.jpg'
 ---
 
