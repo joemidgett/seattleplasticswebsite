@@ -1,4 +1,4 @@
-baseURL = "https://www.seattle-plastics-test.onrender.com"
+baseURL = "https://seattle-plastics-test.onrender.com"
 languageCode = "en-us"
 title = "Seattle Plastics"
 themesDir = "themes"
@@ -16,23 +16,23 @@ theme = "hugo-hero-theme"
     meta_description = "We have perfected custom manufacturing at stock prices"
     meta_og_title = "Seattle Plastics"
     meta_og_type = "website"
-    meta_og_url = "https://www.seattle-plastics-test.onrender.com"
+    meta_og_url = "https://seattle-plastics-test.onrender.com"
     meta_og_description = "Seattle Plastics"
 
 [[menu.main]]
 name = "Home"
-url = "/"
+url = "https://seattle-plastics-test.onrender.com"
 weight = 1
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
-    weight = 2 
+name = "Services"
+url = "https://seattle-plastics-test.onrender.com/services"
+weight = 2 
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 3 
+name = "Contact"
+url = "https://seattle-plastics-test.onrender.com/contact"
+weight = 3 
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
