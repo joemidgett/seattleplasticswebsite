@@ -16,7 +16,7 @@ theme = "hugo-hero-theme"
     meta_description = "We have perfected custom manufacturing at stock prices"
     meta_og_title = "Seattle Plastics"
     meta_og_type = "website"
-    meta_og_url = "http://www.seattleplastics.com"
+    meta_og_url = "https://www.seattle-plastics-test.onrender.com"
     meta_og_description = "Seattle Plastics"
 
 [[menu.main]]
