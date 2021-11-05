@@ -5568,14 +5568,15 @@ ol {
   @media (min-width: 576px) {
     .logo {
       display: block;
-      width: 120px; } }
+      width: 140px; } }
   .logo img {
     width: 100%;
     height: auto; }
   .logo a {
     display: block;
     width: 100%;
-    height: 100%; }
+    height: 100%;
+    font-family: "Haettenschweiler"; }
 
 .logo-mobile {
   display: block;
@@ -5590,7 +5591,8 @@ ol {
   .logo-mobile a {
     display: block;
     width: 100%;
-    height: 100%; }
+    height: 100%;
+    font-family: "Haettenschweiler"; }
 
 .main-menu {
   display: none; }
@@ -6020,7 +6022,8 @@ ul.social {
       @media (min-width: 768px) {
         .hero-image .hero-text h1 {
           font-size: 4rem;
-          width: 80%; } }
+          width: 80%;
+          font-family: "Haettenschweiler"; } }
     .hero-image .hero-text h2 {
       font-size: 2.2rem; }
       @media (min-width: 768px) {
