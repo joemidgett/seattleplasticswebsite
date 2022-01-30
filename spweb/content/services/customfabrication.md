@@ -4,52 +4,24 @@ date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 heroHeading: 'Custom Fabrication'
-heroSubHeading: 'Lorem ipsum lorem markdownum aequalis strigis.'
+heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+With over 60% of our production dedicated to custom work, Seattle Plastics has developed manufacturing methods that can make your design a reality quickly and affordably.
 
-## Ne verba patulosque numen vix libet
+Contact our sales team for a quote, or print and complete the fax sheet supplied below. We’ll need the following information to get started on your project:
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+- A rough sketch of your idea that includes dimensions
+- Specific preferences, if any (such as colored acrylic or non-standard finishes)
+- Quantities needed
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+A sales representative will respond quickly with price quotes and comments regarding the design and construction of your display. Upon your approval, we will produce an actual-size prototype of your custom display. We'll also provide projected delivery dates and shipping costs.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Many of our customers prefer to have Seattle Plastics safely package and ship product to their multiple locations. Drop shipments are just one of our many custom fulfillment services, including:
 
-## Postquam tamen
+- Stamping or screen-printing of your logo
+- Custom packaging
+- Promotional roll outs by date
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+As a direct manufacturer, we fabricate and ship most custom orders within 2 weeks!

@@ -4,49 +4,36 @@ date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
 heroHeading: 'Chalkboard Signs'
-heroSubHeading: 'Lorem Ipsum cyanee nec pedicis positi.'
+heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Seattle Plastics is pleased to present our new line of plastic chalkboard products for the retail market.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Made from FDA approved acrylic, our items have a matte finish to mimic a chalkboard's surface which can be fabricated into any product from slanted signs for deli cases, signs for bottle tops, gift card displays, tip jars and more. Unlike real chalkboard, it's lightweight and cleans easily with any surface cleaner. Like chalkboard, it can be used with liquid chalk, dry erase pens, real chalk or new dry erase crayons from Crayola to create beautiful, professional sign holders. The options are endless.
 
-## Geniti facinus praeruptam atris ab manus in
+New sizes and items are being developed so check back again to see our new additions. Please contact us for custom sizes and check out our new chalkboard gift card display.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+![image](image.jpg)
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+---
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+**Prices**
 
-## Vidit si probetne vertitur
+Prices are net. Prices and specs are subject to change without notice.
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+**Returned Goods**
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+Goods returned prepaid will be accepted for credit if resalable, with prior authorization. There is a 15% restocking charge. Merchandise returned as "defective" is subject to inspection before the claim can be allowed.
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+**Shortage or Damage** 
+
+In case you find any shortage or damage notify the delivering Freight Carrier and us, at once and file a claim promptly. Our responsibility for delivery of goods ends when we have a signed Bill of Lading by our Transportation Agent. We cannot honor claims beyond 7 days after delivery.
+
+**Terms and Credit**
+
+Online orders must be prepaid or paid with MasterCard, Visa or American Express. 
+Public institutions such as colleges, libraries, and museums please contact us for further information.  
+For Net30 terms, please contact our sales department for more information.
+
+
