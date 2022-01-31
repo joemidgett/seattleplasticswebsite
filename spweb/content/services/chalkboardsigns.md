@@ -5,7 +5,7 @@ featured: true
 draft: false
 heroHeading: 'Chalkboard Signs'
 heroSubHeading: ''
-heroBackground: 'services/service1.jpg'
+heroBackground: 'https://images.unsplash.com/photo-1614292253351-4deb4913c142?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'
 ---
 
 Seattle Plastics is pleased to present our new line of plastic chalkboard products for the retail market.
