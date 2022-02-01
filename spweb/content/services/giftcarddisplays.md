@@ -16,7 +16,7 @@ All displays can be modified for veritcal design gift cards. Call for more infor
 
 3 Pocket Tiered Gift Card Display. Designed for space saving, this display has a small foot print, but delivers maximum results. Pocket width is 3.75". Back sign holder is detachable and fits graphics that are 3.75" wide x 4" high. **$16.00**
 
-<img src="/home/Dev/WebDev/seattleplasticswebsite/spweb/static/services/service1.jpg">
+![Product #](image.jpg)
 
 ---
 
