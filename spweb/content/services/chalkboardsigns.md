@@ -14,7 +14,7 @@ Made from FDA approved acrylic, our items have a matte finish to mimic a chalkbo
 
 New sizes and items are being developed so check back again to see our new additions. Please contact us for custom sizes and check out our new chalkboard gift card display.
 
-![image](image.jpg)
+<img src="/img/chalkboard_easels.jpg" alt="Chalkboard Easel" width="325" height="400"/>
 
 ---
 
