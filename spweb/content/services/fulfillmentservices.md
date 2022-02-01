@@ -26,4 +26,4 @@ We can arrange all of the elements for a successful promotion, including:
 <li>Expedited UPS Shipments</li>
 <li>Prompt Proof of Deliveries</li>
 
-Call us toll free at 1-800-441-0679 to find out how we can make your next project a little easier! 
+<br>Call us toll free at 1-800-441-0679 to find out how we can make your next project a little easier! 
