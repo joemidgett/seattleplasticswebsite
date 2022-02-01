@@ -14,16 +14,16 @@ We're experienced in coordinating goods from multiple vendors. From literature t
 
 We can arrange all of the elements for a successful promotion, including:
 
-- Product Labeling
-- Silkscreen Imprinting
-- Custom Packaging
-- Insertion of Graphics and Brochures
-- Kit Assembly
-- Planned Promotional Roll-Outs by Date
-- Stock Display Samples
-- Custom Prototype Samples
-- Nationwide Drop Shipment
-- Expedited UPS Shipments
-- Prompt Proof of Deliveries
+<li>Product Labeling</li>
+<li>Silkscreen Imprinting</li>
+<li>Custom Packaging</li>
+<li>Insertion of Graphics and Brochures</li>
+<li>Kit Assembly</li>
+<li>Planned Promotional Roll-Outs by Date</li>
+<li>Stock Display Samples</li>
+<li>Custom Prototype Samples</li>
+<li>Nationwide Drop Shipment</li>
+<li>Expedited UPS Shipments</li>
+<li>Prompt Proof of Deliveries</li>
 
 Call us toll free at 1-800-441-0679 to find out how we can make your next project a little easier! 
