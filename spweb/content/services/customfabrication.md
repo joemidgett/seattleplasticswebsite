@@ -5,7 +5,7 @@ featured: true
 draft: false
 heroHeading: 'Custom Fabrication'
 heroSubHeading: ''
-heroBackground: 'https://images.unsplash.com/photo-1605868178791-2eef8216e7b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=81'
+heroBackground: '/img/custom.avif'
 ---
 
 With over 60% of our production dedicated to custom work, Seattle Plastics has developed manufacturing methods that can make your design a reality quickly and affordably.
